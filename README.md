@@ -1,2 +1,2 @@
-# C-
+# C++
 Repo contains C++ code
