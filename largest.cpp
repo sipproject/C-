@@ -13,4 +13,8 @@ int main() {
     if(n2 >= n1 && n2 >= n3)
         cout << "Largest number: " << n2;
     
+    return 0;
+}
+
+    
  
