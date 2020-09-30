@@ -13,4 +13,5 @@ int main()
     {
         factorial *= i;
     }
-
+return 0;
+}
