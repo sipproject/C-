@@ -20,3 +20,5 @@ int main()
         else
             cout << year << " is a leap year.";
     }
+  return 0;
+}
